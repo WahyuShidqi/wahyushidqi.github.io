@@ -1,3 +1,7 @@
+// import jsQuoteGenerator from "./assets/images/Quotegen.png";
+
+let Quotegen = require("./assets/images/Quotegen.png");
+
 const logotext = "Wahyu";
 const meta = {
   title: "Wahyu-Portfolio",
@@ -94,10 +98,9 @@ const services = [
 
 const dataportfolio = [
   {
-    img: "https://picsum.photos/400/?grayscale",
-    description:
-      "The wisdom of life consists in the elimination of non-essentials.",
-    link: "#",
+    img: Quotegen,
+    description: "JavaScript Quote Generator",
+    link: "https://wahyushidqi.github.io/JS-Quote-generator/",
   },
   {
     img: "https://picsum.photos/400/800/?grayscale",

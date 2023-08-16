@@ -22,7 +22,7 @@
         "build": "react-scripts build",
         "test": "react-scripts test",
         "eject": "react-scripts eject",
-        "predeploy": "yarn build && cp build/index.html build/404.html",
+        "predeploy": "yarn run build",
         "deploy": "gh-pages -d build"
     },
     "eslintConfig": {
@@ -44,6 +44,6 @@
         ]
     },
     "devDependencies": {
-        "gh-pages": "^5.0.0"
+        "gh-pages": "^6.0.0"
     }
 }
