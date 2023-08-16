@@ -1,11 +1,12 @@
 {
   "files": {
-    "main.css": "/static/css/main.466c869e.css",
-    "main.js": "/static/js/main.27735654.js",
+    "main.css": "/static/css/main.d76fd5e5.css",
+    "main.js": "/static/js/main.9981c5d8.js",
+    "static/media/Quotegen.png": "/static/media/Quotegen.3e60095dac6a727ececb.png",
     "index.html": "/index.html"
   },
   "entrypoints": [
-    "static/css/main.466c869e.css",
-    "static/js/main.27735654.js"
+    "static/css/main.d76fd5e5.css",
+    "static/js/main.9981c5d8.js"
   ]
 }
